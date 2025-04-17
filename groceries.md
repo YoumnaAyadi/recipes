@@ -7,3 +7,6 @@
 * Okay: $10
 * Aldi: $7
 * Carrefour: $8.5
+
+# Toothpaste
+* Okay: $5
